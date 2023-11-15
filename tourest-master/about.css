@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;}
+h1{background-color: rgb(193, 193, 232);
+padding-left: 20px;
+height: 60px;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+padding-top: 10px;}
+.pag{background-color: rgb(243, 243, 147);
+    padding-left: 20px;
+/*    
+    text-align: center; */
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10px;
+font-size: x-large;}
